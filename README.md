@@ -3,13 +3,6 @@ Refactoring Exercise
 
 URL: https://h-mai.github.io/week1refactor/index.html
 
-Screenshots:
-
-![Alt text](/relative/path/to/img.jpg?raw=true "Header")
-![Alt text](/relative/path/to/img.jpg?raw=true "Main Content")
-![Alt text](/relative/path/to/img.jpg?raw=true "Footer")
-
-
 Refactoring Code 
 
 The purpose of this refactoring exercise was to make this more accessible and easier to follow through for the client. I also had to keep in mind that needed to tidy up the HTML and the CSS without affecting the front end aesthetic of the website.
