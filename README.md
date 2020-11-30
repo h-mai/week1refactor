@@ -1,7 +1,7 @@
 # week1-refactor
 Refactoring Exercise
 
-URL: https://h-mai.github.io/week1-refactor/
+URL: https://h-mai.github.io/week1refactor/
 
 Screenshots:
 
