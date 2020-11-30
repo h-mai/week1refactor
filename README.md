@@ -16,3 +16,4 @@ Here's what I've done to achieve were the following steps:
 5. Spaced and indented all the lines of html so the code is less cluttered and easy to read and edit.
 6. The CSS has comments throughout segmenting the different classes and sections with their font and imagestylings/positionings
 
+ 
